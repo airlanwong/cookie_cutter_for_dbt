@@ -1,5 +1,8 @@
 {
-"folder_name": "cookiecutter_folderrr",
+"ENV": "dev",
+"dbt": "dbt",
+"source_system": "source_system",
+"dwh_no": "001",
 "file_name": "ETL_script",
 "name": "alan",
 "python_packages": ""
